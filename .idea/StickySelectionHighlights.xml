@@ -3,6 +3,16 @@
   <component name="StickySelectionHighlights">
     <option name="editorHighlights">
       <map>
+        <entry key="$PROJECT_DIR$/src/Contents/03Control.md">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Contents/04str.md">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Contents/Basic&amp;Variable.md">
           <value>
             <PaintGroupHighlightMap />
@@ -39,6 +49,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/chap04_number_type2.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chap06_if.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chap07_for.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chap08_While.py">
           <value>
             <PaintGroupHighlightMap />
           </value>
